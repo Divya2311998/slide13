@@ -77,27 +77,7 @@ export default function VerticalTabs() {
         <Tab label="Get Cash" style={{fontWeight:"bolder"}} {...a11yProps(6)} />
       </Tabs>
       </div>
-    //   <TabPanel value={value} index={0}>
-    //     Item One
-    //   </TabPanel>
-    //   <TabPanel value={value} index={1}>
-    //     Item Two
-    //   </TabPanel>
-    //   <TabPanel value={value} index={2}>
-    //     Item Three
-    //   </TabPanel>
-    //   <TabPanel value={value} index={3}>
-    //     Item Four
-    //   </TabPanel>
-    //   <TabPanel value={value} index={4}>
-    //     Item Five
-    //   </TabPanel>
-    //   <TabPanel value={value} index={5}>
-    //     Item Six
-    //   </TabPanel>
-    //   <TabPanel value={value} index={6}>
-    //     Item Seven
-    //   </TabPanel>
+
     
   );
 }
