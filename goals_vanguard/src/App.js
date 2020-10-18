@@ -51,7 +51,7 @@ export class App extends Component {
             </Switch>
           </div>
         </Router>
-        {/* </TabPanel> */}
+        {/* </TabPnel> */}
         
       </div>
     )
