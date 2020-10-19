@@ -28,7 +28,6 @@ const state1 = {
             fill:true,
             lineTension: 0,
             backgroundColor: ['#009900'],
-            // pointColor:'red',
             borderWidth: 0,
             data: [0,25],
             pointRadius:0
@@ -38,7 +37,6 @@ const state1 = {
             fill:true,
             lineTension: 0,
             backgroundColor: ['#C0C0C0'],
-            // pointColor:'red',
             borderWidth: 0,
             data: [0,25,50,75],
             pointRadius:0
