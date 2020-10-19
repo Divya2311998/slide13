@@ -46,7 +46,7 @@ const state1 = {
     ]
 }
 
-export class Goals extends Component {
+export class Student extends Component {
     render() {
         return (
             <div className="container mt-3">
@@ -151,4 +151,4 @@ export class Goals extends Component {
     }
 }
 
-export default Goals
+export default Student
